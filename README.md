@@ -1,7 +1,7 @@
 # site
 <html>
     <title>The Diamond Casino</title>
-  link rel="stylesheet"
+  <link rel="stylesheet"
   href="css"/>
         <body>
             <main>
